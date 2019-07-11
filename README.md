@@ -1,12 +1,9 @@
-# Destroy-Me
-This is a simple demonstration of a game written in electron js.
+# Destroyer
+A game written in Electron JS.
 
-<h3>NOTE</h3>
+## Installation
 
-<p>Make sure you have <b>node, npm</b> and <b>electron</b> installed.</p>
+`npm install`
 
-<h3>To execute</h3>
+`npm start`
 
-<p>1) Clone this repo and cd into it.</p>
-<p>2) Run <b>npm install</b> to install all the dependencies.</p>
-<p>3) Run <b>npm start </b>to start the server.</p>
